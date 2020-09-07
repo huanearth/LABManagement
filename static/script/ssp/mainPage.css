@@ -1,0 +1,76 @@
+.subTitle{
+    text-align: center;
+    background: #7097bc;
+    color: white;
+    height: 6vh;
+    font-size: 20px;
+    margin: 25px;
+}
+
+.subTitleActive{
+    text-align: center;
+    background: #4494de;
+    color: white;
+    height: 6vh;
+    font-size: 23px;
+    margin: 25px;
+}
+
+.oddRow {
+    background: #c0deec;
+    height:30px;
+    color: black;
+    padding: 0;
+}
+
+.evenRow {
+    background: rgba(255, 255, 255, 0.6);
+    height:30px;
+    color: black;
+    padding: 0;
+}
+
+.titleBar{
+    font-size: 20px;
+    padding: 5px;
+    border-bottom: 1px solid;
+    text-align: center;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+}
+
+.quitIcon{
+    text-align: left;
+    color: #b2940b;
+    padding: inherit;
+}
+
+.activePage{
+    font-size: 24px;
+    color: #005cbf;
+}
+
+.negativePage{
+    padding: inherit;
+}
+
+#backlogTask .ant-dropdown-menu-item{
+    background: rgba(0,0,0,0.4);
+    color:white;
+    width: 15vw;
+    font-size: 20px;
+    text-align: center;
+}
+
+#backlogTask{
+    background-color: rgba(0,0,0,0);
+    color:white;
+    max-height: 80vh;
+    overflow-x: hidden;
+}
+
+.ant-table-body{
+    max-height: 60vh;
+    overflow: auto;
+}

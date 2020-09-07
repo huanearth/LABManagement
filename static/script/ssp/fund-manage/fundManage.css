@@ -1,0 +1,19 @@
+
+.searchZone{
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    background: #faebd7;
+}
+
+.fundsTable{
+    margin: 20px;
+}
+
+.addExpenditure{
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+.ant-card-head{
+    text-align: center;
+}
+
+.ant-form-item{
+    margin-bottom: 0;
+}
+
+.registerForm{
+    position: fixed;
+    left: 37%;
+    right: 37%;
+    top: 20%;
+}
+
+.closeIcon{
+    position: fixed;
+    left: 20%;
+    right: 20%;
+    top: 10%;
+}
+
+.closeIcon .icon{
+    color: red;
+    font-size: 20px;
+}

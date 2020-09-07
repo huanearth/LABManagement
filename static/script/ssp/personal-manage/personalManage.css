@@ -1,0 +1,29 @@
+
+.searchZone{
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    background: #faebd7;
+}
+
+#completeTime .ant-calendar-picker-input{
+    background: transparent;
+}
+
+.weekPlansTable{
+    margin: 20px;
+}
+
+.userInfo{
+    text-align: center;
+    width: 60%;
+    font-size: 20px;
+}
+
+.handleButton{
+    width: 30%;
+    height: 100%;
+    font-size: 20px;
+}

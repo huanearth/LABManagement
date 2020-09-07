@@ -1,0 +1,54 @@
+.searchZone{
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    background: #faebd7;
+}
+
+.fundsTable{
+    margin: 20px;
+}
+
+.addExpenditure{
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+.ant-card-head{
+    text-align: center;
+}
+
+.ant-form-item{
+    margin-bottom: 0;
+}
+
+.addAchievementsForm{
+    position: fixed;
+    left: 30%;
+    right: 30%;
+    top: 20%;
+}
+
+.ant-table-thead{
+    font-size: 20px;
+}
+
+.ant-modal-content{
+    width: 40vw;
+}
+
+.addFileModel{
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+#updateOtherFileModel .ant-row{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
